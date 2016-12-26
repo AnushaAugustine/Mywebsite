@@ -1,10 +1,21 @@
-## Welcome to GitHub Pages
+## How to be a programmer !!
 
-You can use the [editor on GitHub](https://github.com/AnushaAugustine/mywebsite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Debugging	is	the	cornerstone	of	being	a	programmer.	The	first	meaning	of	the	verb	"debug" is	to	remove	errors,	but	the	meaning	that	really	matters	is	to	see	into	the	execution	of	a program	by	examining	it.	A	programmer	that	cannot	debug	effectively	is	blind.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+The	common	ways	of	looking	into	the	‘innards’	of	an	executing	program	can	be	categorized as:
+Using	a	debugging	tool,
+* Printlining	-	Making	a	temporary	modification	to	the	program,	typically	adding	lines	that print	information	out,	and 
+* Logging	-	Creating	a	permanent	window	into	the	programs	execution	in	the	form	of	a log.
+
+### How	to	Debug	Using	a	Log
+logs	offer	three	basic	advantages:
+* Logs	can	provide	useful	information	about	bugs	that	are	hard	to	reproduce	(such	as those	that	occur	in	the	production	    environment	but	that	cannot	be	reproduced	in	the	test environment).
+* Logs	can	provide	statistics	and	data	relevant	to	performance,	such	as	the	time	passing between	statements.
+* When	configurable,	logs	allow	general	information	to	be	captured	in	order	to	debug unanticipated	specific	problems	without	having	to	modify	and/or	redeploy	the	code	just to	deal	with	those	specific	problems.
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
