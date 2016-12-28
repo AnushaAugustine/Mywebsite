@@ -1,4 +1,5 @@
 # How to be a programmer !!
+![how to become a programmer](https://www.google.co.in/search?q=become+a+programmer&rlz=1C1GIWA_enIN719IN719&espv=2&biw=1448&bih=780&source=lnms&tbm=isch&sa=X&ved=0ahUKEwid9PeNqZfRAhXJKY8KHQ_nA5EQ_AUIBygC#imgrc=Dq_o1Lz3-4SgCM%3A)
 
 Debugging	is	the	cornerstone	of	being	a	programmer.	The	first	meaning	of	the	verb	"debug" is	to	remove	errors,	but	the	meaning	that	really	matters	is	to	see	into	the	execution	of	a program	by	examining	it.	A	programmer	that	cannot	debug	effectively	is	blind.
 
@@ -41,31 +42,6 @@ When	stumped,	take	a	breakt.	A	night's	sleep	sometimes	does	the same	thing	on	a	
 
 One	of	the	challenges	that	every	programmer	but	especially	leaders	face	is	keeping	the difficult	person	fully	engaged
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 For more details see [How to be a programmer](https://www.gitbook.com/book/braydie/how-to-be-a-programmer/details).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AnushaAugustine/mywebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  ![All the Best](https://www.google.co.in/search?q=all+the+best+programmer&rlz=1C1GIWA_enIN719IN719&espv=2&biw=1448&bih=725&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj43MuAq5fRAhXLo48KHcJiDAMQ_AUIBygC#imgrc=GzblIEJwDCixTM%3A)
