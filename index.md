@@ -14,9 +14,6 @@ logs	offer	three	basic	advantages:
 * Logs	can	provide	statistics	and	data	relevant	to	performance,	such	as	the	time	passing between	statements.
 * When	configurable,	logs	allow	general	information	to	be	captured	in	order	to	debug unanticipated	specific	problems	without	having	to	modify	and/or	redeploy	the	code	just to	deal	with	those	specific	problems.
 
-
-
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
