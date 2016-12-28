@@ -11,9 +11,9 @@ The	common	ways	of	looking	into	the	‘innards’	of	an	executing	program	can	be
 ### How	to	Debug	Using	a	Log
 
 logs	offer	three	basic	advantages:
-<li>Logs	can	provide	useful	information	about	bugs	that	are	hard	to	reproduce	(such	as those	that	occur	in	the	production	         <p>environment	but	that	cannot	be	reproduced	in	the	test environment).</p></li>
+<li>Logs	can	provide	useful	information	about	bugs	that	are	hard	to	reproduce	(such	as those	that	occur	in	the	production	              environment	but	that	cannot	be	reproduced	in	the	test environment).</li>
 <li>Logs	can	provide	statistics	and	data	relevant	to	performance,	such	as	the	time	passing between	statements.</li>
-<li>When	configurable,	logs	allow	general	information	to	be	captured	in	order	to	debug unanticipated	specific	problems	without     <p>having	to	modify	and/or	redeploy	the	code	just to	deal	with	those	specific	problems.</p></li>
+<li>When	configurable,	logs	allow	general	information	to	be	captured	in	order	to	debug unanticipated	specific	problems	without          having	to	modify	and/or	redeploy	the	code	just to	deal	with	those	specific	problems.</li>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
