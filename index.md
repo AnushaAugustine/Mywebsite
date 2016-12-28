@@ -7,7 +7,8 @@ The	common	ways	of	looking	into	the	‘innards’	of	an	executing	program	can	be
 <li>Using	a	debugging	tool,</li>
 <li>Printlining	-	Making	a	temporary	modification	to	the	program,	typically	adding	lines	that print	information	out</li>
 <li>Logging	-	Creating	a	permanent	window	into	the	programs	execution	in	the	form	of	a log.</li>
-
+<p>       
+</p>
 ### How	to	Debug	Using	a	Log
 
 logs	offer	three	basic	advantages:
