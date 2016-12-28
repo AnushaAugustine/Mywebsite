@@ -22,10 +22,10 @@ logs	offer	three	basic	advantages:
 ### How to	Deal	with	I/O	Expense
 
 There	are	two	very	fundamental	techniques	to	improving	I/O:	caching	and	representation.
-<p>- Caching	is	avoiding	I/O by	storing	a copy	of	that	value	locally	so	no	I/O	is	performed	to	get	the	value.</p>
-<p>- Representation	is	the	approach	of	making	I/O	cheaper	by	representing	data	more	efficiently. This	is	often	in	tension
+- Caching	is	avoiding	I/O by	storing	a copy	of	that	value	locally	so	no	I/O	is	performed	to	get	the	value.</p>
+- Representation	is	the	approach	of	making	I/O	cheaper	by	representing	data	more	efficiently. This	is	often	in	tension
 with
-<p>- other	demands,	like	human	readability	and	portability. </p>
+- other	demands,	like	human	readability	and	portability. </p>
 
 ### How	to	Conduct	Experiments
 
