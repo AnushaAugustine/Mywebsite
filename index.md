@@ -1,13 +1,13 @@
-## <h1>How to be a programmer !!</h1>
+# How to be a programmer !!
 
 Debugging	is	the	cornerstone	of	being	a	programmer.	The	first	meaning	of	the	verb	"debug" is	to	remove	errors,	but	the	meaning	that	really	matters	is	to	see	into	the	execution	of	a program	by	examining	it.	A	programmer	that	cannot	debug	effectively	is	blind.
 
 
 The	common	ways	of	looking	into	the	‘innards’	of	an	executing	program	can	be	categorized as:
-<p> <ul> Using	a	debugging	tool,
-<p> * Printlining	-	Making	a	temporary	modification	to	the	program,	typically	adding	lines	that print	information	out
-<p> * Logging	-	Creating	a	permanent	window	into	the	programs	execution	in	the	form	of	a log.
-</ul>
+<p>- Using	a	debugging	tool,
+<p>- Printlining	-	Making	a	temporary	modification	to	the	program,	typically	adding	lines	that print	information	out
+<p>- Logging	-	Creating	a	permanent	window	into	the	programs	execution	in	the	form	of	a log.
+
 ### How	to	Debug	Using	a	Log
 logs	offer	three	basic	advantages:
 * Logs	can	provide	useful	information	about	bugs	that	are	hard	to	reproduce	(such	as those	that	occur	in	the	production	    environment	but	that	cannot	be	reproduced	in	the	test environment).
