@@ -1,5 +1,5 @@
 # How to be a programmer !!
-![how to become a programmer](https://www.google.co.in/search?q=become+a+programmer&rlz=1C1GIWA_enIN719IN719&espv=2&biw=1448&bih=780&source=lnms&tbm=isch&sa=X&ved=0ahUKEwid9PeNqZfRAhXJKY8KHQ_nA5EQ_AUIBygC#imgrc=Dq_o1Lz3-4SgCM%3A)
+![how to become a programmer](https://pgm1.github.com/images/how to be a programmer.png)
 
 Debugging	is	the	cornerstone	of	being	a	programmer.	The	first	meaning	of	the	verb	"debug" is	to	remove	errors,	but	the	meaning	that	really	matters	is	to	see	into	the	execution	of	a program	by	examining	it.	A	programmer	that	cannot	debug	effectively	is	blind.
 
@@ -44,4 +44,4 @@ One	of	the	challenges	that	every	programmer	but	especially	leaders	face	is	keepi
 
 For more details see [How to be a programmer](https://www.gitbook.com/book/braydie/how-to-be-a-programmer/details).
 
-  ![All the Best](https://www.google.co.in/search?q=all+the+best+programmer&rlz=1C1GIWA_enIN719IN719&espv=2&biw=1448&bih=725&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj43MuAq5fRAhXLo48KHcJiDAMQ_AUIBygC#imgrc=GzblIEJwDCixTM%3A)
+  ![All the Best]()
