@@ -5,7 +5,8 @@ Debugging	is	the	cornerstone	of	being	a	programmer.	The	first	meaning	of	the	ver
 
    The	common	ways	of	looking	into	the	‘innards’	of	an	executing	program	can	be	categorized as:
    <li>Using	a	debugging	tool,</li>
-   <li>Printlining	-	Making	a	temporary	modification	to	the	program,	typically	adding	lines	that print	information	out</li>
+   <li>Printlining	-	Making	a	temporary	modification	to	the	program,	typically	adding	lines	that print	information
+   out</li>
    <li>Logging	-	Creating	a	permanent	window	into	the	programs	execution	in	the	form	of	a log.</li>
 
 ### How	to	Debug	Using	a	Log
@@ -21,16 +22,17 @@ logs	offer	three	basic	advantages:
 ### How to	Deal	with	I/O	Expense
 
 There	are	two	very	fundamental	techniques	to	improving	I/O:	caching	and	representation.
-- Caching	is	avoiding	I/O by	storing	a copy	of	that	value	locally	so	no	I/O	is	performed	to	get	the	value.
-- Representation	is	the	approach	of	making	I/O	cheaper	by	representing	data	more	efficiently. This	is	often	in	tension	with
-  other	demands,	like	human	readability	and	portability. 
+<p>- Caching	is	avoiding	I/O by	storing	a copy	of	that	value	locally	so	no	I/O	is	performed	to	get	the	value.</p>
+<p>- Representation	is	the	approach	of	making	I/O	cheaper	by	representing	data	more	efficiently. This	is	often	in	tension
+with
+<p>- other	demands,	like	human	readability	and	portability. </p>
 
 ### How	to	Conduct	Experiments
 
 The	kinds	of	experiments	you	will	have	to	perform	include:
 
 <li>Testing	systems	with	small	examples	to	verify	that	they	conform	to	the	documentation	or to	understand	their	response	when
-     there	is	-no	documentation, </li>
+    there	is	-no	documentation, </li>
 <li>Testing	small	code	changes	to	see	if	they	actually	fix	a	bug,</li>
 <li>Measuring	the	performance	of	a	system	under	two	different	conditions	due	to	imperfect knowledge	of	their	performance
     characteristics,</li> 
@@ -39,7 +41,10 @@ The	kinds	of	experiments	you	will	have	to	perform	include:
 
 ### How	to	Utilize	People	as	Information Sources
 
-Respect	every	person's	time	and	balance	it	against	your	own.	Asking	someone	a	question accomplishes	far	more	than	just	receiving	the	answer.	The	person	learns	about	you,	both	by enjoying	your	presence	and	hearing	the	particular	question.	You	learn about	the	person	in the	same	way,	and	you	may	learn	the	answer	you	seek.	This	is	usually	far	more	important than	your	question.
+Respect	every	person's	time	and	balance	it	against	your	own.	Asking	someone	a	question accomplishes	far	more	than	just
+receiving	the	answer.	The	person	learns	about	you,	both	by enjoying	your	presence	and	hearing	the	particular
+question.	You	learn about	the	person	in the	same	way,	and	you	may	learn	the	answer	you	seek.	This	is	usually
+far	more	important than	your	question.
 
 ### Take	Breaks	when	Stumped
 
