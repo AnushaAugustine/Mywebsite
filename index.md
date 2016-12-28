@@ -1,4 +1,4 @@
-# How to be a programmer !!
+  # How to be a programmer !!
 
 ![how to become a programmer](https://raw.githubusercontent.com/AnushaAugustine/mywebsite/master/pgm1.png)
 
@@ -45,4 +45,4 @@ One	of	the	challenges	that	every	programmer	but	especially	leaders	face	is	keepi
 
 For more details see [How to be a programmer](https://www.gitbook.com/book/braydie/how-to-be-a-programmer/details).
 
-  ![All the Best]()
+  ![All the Best](https://raw.githubusercontent.com/AnushaAugustine/mywebsite/master/pgm2.png)
