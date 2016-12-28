@@ -41,6 +41,6 @@ When	stumped,	take	a	breakt.	A	night's	sleep	sometimes	does	the same	thing	on	a	
 
 One	of	the	challenges	that	every	programmer	but	especially	leaders	face	is	keeping	the difficult	person	fully	engaged
 
-For more details see [How to be a programmer](https://www.gitbook.com/book/braydie/how-to-be-a-programmer/details).
+Its only the introduction part,For more details see [How to be a programmer](https://www.gitbook.com/book/braydie/how-to-be-a-programmer/details).
 
   ![All the Best](https://raw.githubusercontent.com/AnushaAugustine/mywebsite/master/pgm2.png)
