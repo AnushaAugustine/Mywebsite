@@ -6,7 +6,7 @@ Debugging	is	the	cornerstone	of	being	a	programmer.	The	first	meaning	of	the	ver
 The	common	ways	of	looking	into	the	‘innards’	of	an	executing	program	can	be	categorized as:
   *Using	a	debugging	tool,
   *Printlining	-	Making	a	temporary	modification	to	the	program,	typically	adding	lines	that print	information	out
-   *Logging	-	Creating	a	permanent	window	into	the	programs	execution	in	the	form	of	a log.</li>
+  *Logging	-	Creating	a	permanent	window	into	the	programs	execution	in	the	form	of	a log.</li>
 
 ### How	to	Debug	Using	a	Log
 logs	offer	three	basic	advantages:
