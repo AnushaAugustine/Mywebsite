@@ -1,4 +1,4 @@
-## How to be a programmer !!
+## <h1>How to be a programmer !!</h1>
 
 Debugging	is	the	cornerstone	of	being	a	programmer.	The	first	meaning	of	the	verb	"debug" is	to	remove	errors,	but	the	meaning	that	really	matters	is	to	see	into	the	execution	of	a program	by	examining	it.	A	programmer	that	cannot	debug	effectively	is	blind.
 
