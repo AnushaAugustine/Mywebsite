@@ -1,4 +1,4 @@
-  # How to be a programmer !!
+# How to be a programmer !!
 
 ![how to become a programmer](https://raw.githubusercontent.com/AnushaAugustine/mywebsite/master/pgm1.png)
 
