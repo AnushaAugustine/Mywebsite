@@ -1,5 +1,5 @@
 # How to be a programmer !!
-![how to become a programmer](https://www.google.co.in/search?q=become+a+programmer&rlz=1C1GIWA_enIN719IN719&espv=2&biw=1448&bih=780&source=lnms&tbm=isch&sa=X&ved=0ahUKEwid9PeNqZfRAhXJKY8KHQ_nA5EQ_AUIBygC#imgrc=Dq_o1Lz3-4SgCM%3A)
+![how to become a programmer](https://github.com/AnushaAugustine/mywebsite/blob/master/pgm1.jpg)
 
 Debugging	is	the	cornerstone	of	being	a	programmer.	The	first	meaning	of	the	verb	"debug" is	to	remove	errors,	but	the	meaning	that	really	matters	is	to	see	into	the	execution	of	a program	by	examining	it.	A	programmer	that	cannot	debug	effectively	is	blind.
 
