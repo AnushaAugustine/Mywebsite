@@ -27,15 +27,16 @@ There	are	two	very	fundamental	techniques	to	improving	I/O:	caching	and	represen
 ### How	to	Conduct	Experiments
 
 The	kinds	of	experiments	you	will	have	to	perform	include:
+<ul>
 
-<li>Testing	systems	with	small	examples	to	verify	that	they	conform	to	the	documentation	or to	understand	their	response	when
-    ...there	is	-no	documentation, </li>
-<li>Testing	small	code	changes	to	see	if	they	actually	fix	a	bug,</li>
+<li>Testing	systems	with	small	examples	to	verify	that	they	conform	to	the	documentation	or to	understand	their	respons  when
+    there	is	no	documentation, 
+<li>Testing	small	code	changes	to	see	if	they	actually	fix	a	bug,
 <li>Measuring	the	performance	of	a	system	under	two	different	conditions	due	to	imperfect knowledge	of	their	performance
-    ...characteristics,</li> 
-<li>Checking	the	integrity	of	data,	and </li>
-<li>Collecting	statistics	that	may	hint	at	the	solution	to	difficult	or	hard-to-repeat	bugs.</li>
-
+    characteristics,
+<li>Checking	the	integrity	of	data,	and
+<li>Collecting	statistics	that	may	hint	at	the	solution	to	difficult	or	hard-to-repeat	bugs.
+</ul>
 ### How	to	Utilize	People	as	Information Sources
 
 Respect	every	person's	time	and	balance	it	against	your	own.	Asking	someone	a	question accomplishes	far	more	than	just
