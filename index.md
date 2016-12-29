@@ -39,7 +39,10 @@ The	kinds	of	experiments	you	will	have	to	perform	include:
 
 ### How	to	Utilize	People	as	Information Sources
 
-Respect	every	person's	time	and	balance	it	against	your	own.	Asking	someone	a	question accomplishes	far	more	than	just	receiving	the	answer.	The	person	learns	about	you,	both	by enjoying	your	presence	and	hearing	the	particular	question.	You	learn about	the	person	in the	same	way,	and	you	may	learn	the	answer	you	seek.	This	is	usually	far	more	important than	your	question.
+Respect	every	person's	time	and	balance	it	against	your	own.	Asking	someone	a	question accomplishes	far	more	than	just
+receiving	the	answer.	The	person	learns	about	you,	both	by enjoying	your	presence	and	hearing	the	particular
+question.	You	learn about	the	person	in the	same	way,	and	you	may	learn	the	answer	you	seek.	This	is	usually
+far	more	important than	your	question.
 
 ### Take	Breaks	when	Stumped
 
