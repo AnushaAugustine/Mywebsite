@@ -49,13 +49,13 @@ The	kinds	of	experiments	you	will	have	to	perform	include:
 </ul>
 <ul>
 <li>Measuring	the	performance	of	a	system	under	two	different	conditions	due	to	imperfect knowledge	of	their	performance
-    characteristics,
+    characteristics.</li>
 </ul>
 <ul>
-<li>Checking	the	integrity	of	data.
+<li>Checking	the	integrity	of	data.</li>
 </ul>
 <ul>
-<li>Collecting	statistics	that	may	hint	at	the	solution	to	difficult	or	hard-to-repeat	bugs.
+<li>Collecting	statistics	that	may	hint	at	the	solution	to	difficult	or	hard-to-repeat	bugs.</li>
 </ul>
 ### How	to	Utilize	People	as	Information Sources
 
