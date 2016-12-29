@@ -3,20 +3,19 @@
 Debugging	is	the	cornerstone	of	being	a	programmer.	The	first	meaning	of	the	verb	"debug" is	to	remove	errors,	but	the meaning	that	really	matters	is	to	see	into	the	execution	of	a program	by	examining	it.	A	programmer	that	cannot	debug	effectively	is	blind.
 
    The	common	ways	of	looking	into	the	‘innards’	of	an	executing	program	can	be	categorized as:
-<li>Using	a	debugging	tool,</li>
+<ul><li>Using	a	debugging	tool,</li></ul>
 <ul><li>Printlining : Making	a	temporary	modification	to	the	program,	typically	adding	lines	that print	information
 out.</li></ul>
-<li>Logging:Creating	a	permanent	window	into	the	programs	execution	in	the	form	of	a log.</li>
+<ul><li>Logging:Creating	a	permanent	window	into	the	programs	execution	in	the	form	of	a log.</li></ul>
 
 ### How	to	Debug	Using	a	Log
 
 logs	offer	three	basic	advantages:
 
-<li>Logs	can	provide	useful	information	about	bugs	that	are	hard	to	reproduce	(such	as those	that	occur	in	the	production
-    ...environment	but	that	cannot	be	reproduced	in	the	test environment).</li>
+<ul><li>Logs	can	provide	useful	information	about	bugs	that	are	hard	to	reproduce	(such	as those	that	occur	in	the	production environment	but	that	cannot	be	reproduced	in	the	test environment).</li></ul>
 <li>Logs	can	provide	statistics	and	data	relevant	to	performance,	such	as	the	time	passing between	statements.</li>
-<li>When	configurable,	logs	allow	general	information	to	be	captured	in	order	to	debug unanticipated	specific	problems	without
-    ...having	to	modify	and/or	redeploy	the	code	just to	deal	with	those	specific	problems.</li>
+<ul><li>When	configurable,	logs	allow	general	information	to	be	captured	in	order	to	debug unanticipated	specific	problems	without
+    having	to	modify	and/or	redeploy	the	code	just to	deal	with	those	specific	problems.</li></ul>
 
 ### How to	Deal	with	I/O	Expense
 
