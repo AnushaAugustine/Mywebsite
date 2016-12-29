@@ -4,8 +4,7 @@ Debugging	is	the	cornerstone	of	being	a	programmer.	The	first	meaning	of	the	ver
 
    The	common	ways	of	looking	into	the	‘innards’	of	an	executing	program	can	be	categorized as:
 <li>Using	a	debugging	tool,</li>
-<ul>
-<li>Printlining : Making	a	temporary	modification	to	the	program,	typically	adding	lines	that print	information
+<ul><li>Printlining : Making	a	temporary	modification	to	the	program,	typically	adding	lines	that print	information
 out.</li></ul>
 <li>Logging:Creating	a	permanent	window	into	the	programs	execution	in	the	form	of	a log.</li>
 
