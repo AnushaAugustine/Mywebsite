@@ -27,7 +27,7 @@ logs	offer	three	basic	advantages:
 <ul>
 <li>When	configurable,	logs	allow	general	information	to	be	captured	in	order	to	debug unanticipated	specific	problems	without
     having	to	modify	and/or	redeploy	the	code	just to	deal	with	those	specific	problems.</li>
-    </ul>
+ </ul>
 
 ### How to	Deal	with	I/O	Expense
 
