@@ -4,8 +4,8 @@ Debugging	is	the	cornerstone	of	being	a	programmer.	The	first	meaning	of	the	ver
 
    The	common	ways	of	looking	into	the	‘innards’	of	an	executing	program	can	be	categorized as:
 <li>Using	a	debugging	tool,</li>
-<li>Printlining	-	Making	a	temporary	modification	to	the	program,	typically	adding	lines	that print	information<li>
-out</li></li>
+<li>Printlining	-	Making	a	temporary	modification	to	the	program,	typically	adding	lines	that print	information
+out</li>
 <li>Logging	-	Creating	a	permanent	window	into	the	programs	execution	in	the	form	of	a log.</li>
 
 ### How	to	Debug	Using	a	Log
@@ -13,8 +13,8 @@ out</li></li>
 logs	offer	three	basic	advantages:
 
 <li>Logs	can	provide	useful	information	about	bugs	that	are	hard	to	reproduce	(such	as those	that	occur	in	the	production
-    environment	but	that	cannot	be	reproduced	in	the	test environment).
-<li>Logs	can	provide	statistics	and	data	relevant	to	performance,	such	as	the	time	passing between	statements.
+    environment	but	that	cannot	be	reproduced	in	the	test environment).</li>
+<li>Logs	can	provide	statistics	and	data	relevant	to	performance,	such	as	the	time	passing between	statements.</li>
 <li>When	configurable,	logs	allow	general	information	to	be	captured	in	order	to	debug unanticipated	specific	problems	without
     having	to	modify	and/or	redeploy	the	code	just to	deal	with	those	specific	problems.</li>
 
