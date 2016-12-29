@@ -13,7 +13,7 @@ out.</li></ul>
 logs	offer	three	basic	advantages:
 
 <ul><li>Logs	can	provide	useful	information	about	bugs	that	are	hard	to	reproduce	(such	as those	that	occur	in	the	production environment	but	that	cannot	be	reproduced	in	the	test environment).</li></ul>
-<li>Logs	can	provide	statistics	and	data	relevant	to	performance,	such	as	the	time	passing between	statements.</li>
+<ul><li>Logs	can	provide	statistics	and	data	relevant	to	performance,	such	as	the	time	passing between	statements.</li></ul>
 <ul><li>When	configurable,	logs	allow	general	information	to	be	captured	in	order	to	debug unanticipated	specific	problems	without
     having	to	modify	and/or	redeploy	the	code	just to	deal	with	those	specific	problems.</li></ul>
 
